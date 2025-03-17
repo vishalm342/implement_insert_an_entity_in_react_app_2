@@ -1,5 +1,7 @@
+/* eslint-disable react/prop-types */
 // src/components/MovieCard.jsx
 
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import './MovieCard.css'; // Optional: Import CSS for styling
 
